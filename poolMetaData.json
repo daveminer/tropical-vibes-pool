@@ -1,23 +1,7 @@
 {
-  "name": "Tropical Vibes Pool",
-  "description": "Kick back and soak in the rewards.",
-  "ticker": "TROPC",
-  "homepage": "https://tropicpool.io",
-  "info": {
-    "location": "Tampa, Florida",
-    "social": {
-      "twitter_handle": "TropicPoolADA",
-      "telegram_handle": "TropicPoolADA",
-      "discord_handle": "TropicPoolADA"
-    },
-    "company": {
-      "name": "Tropical Vibes Cardano",
-      "city": "Tampa",
-      "country": "United States" 
-    },
-    "about": {
-      "me": "https://www.linkedin.com/in/dave-w-miner/",
-      "server": "Distributed cloud servers."
-    }
-  }
+"name": "Tropical Vibes Pool",
+"description": "Kick back and soak in the rewards.",
+"ticker": "TROPC",
+"homepage": "https://tropicpool.io",
+"extended": "https://tropicpool.io/extended_pool_data.json"
 }
